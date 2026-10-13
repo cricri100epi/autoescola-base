@@ -1,0 +1,14 @@
+AUTOESCOLA PRIME — PROJETO ESTÁTICO
+
+Arquivos: index.html, style.css, script.js e pasta imagens.
+
+PARA VISUALIZAR
+Abra index.html no navegador. Para publicar, envie o conteúdo desta pasta para um serviço de hospedagem de sites estáticos, como Netlify ou GitHub Pages.
+
+ANTES DE PUBLICAR
+1. No script.js, altere WHATSAPP_NUMERO para o número real com código do país + DDD + número, somente dígitos (ex.: 5511999999999).
+2. No index.html, confirme nome, serviços, endereço, horários e todas as informações da autoescola.
+3. Confirme se a autoescola oferece todas as categorias exibidas.
+4. Depoimentos devem ser reais e publicados com autorização.
+5. O meta robots está como noindex, nofollow durante a fase de demonstração. Remova essa linha quando quiser permitir indexação em buscadores.
+6. A imagem do instrutor é gerada por IA e as fotos dos veículos são ilustrativas; substitua por fotos próprias/licenciadas caso queira apresentar a frota real.
